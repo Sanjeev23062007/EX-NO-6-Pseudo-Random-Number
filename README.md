@@ -1,5 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
-
+```
+Name    : Sanjeev A
+Reg. No : 212224230246
+```
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
